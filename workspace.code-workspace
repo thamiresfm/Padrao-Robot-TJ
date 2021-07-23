@@ -19,8 +19,11 @@
 		{
 			"name": "Tests",
 			"path": "Tests"
+		},
+		{
+				"name": "Utils",
+				"path": "Utils"
 		}
-
 
 	],
 	"Settings": {

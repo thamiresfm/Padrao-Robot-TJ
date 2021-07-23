@@ -23,6 +23,4 @@ Então o sistema retorna a tela com o nome"${NomeDoUsuario}"
   Set Test Variable          ${NomeDoUsuario} 
   Page Should Contain        ${NomeDoUsuario}
 
-Encerrrar sessão
-    Capture Page Screenshot
-    Close Browser
+
