@@ -25,6 +25,6 @@
 1. Abra o _Terminal_, digite cd e diretório do projeto
 2. Digite o comando abaixo
   ```sh
-  $ robot -d ./Results NomeDotest_tests.robot
+  $ robot -d ./Results Tests/NomeDotest_tests.robot
   ```
 
